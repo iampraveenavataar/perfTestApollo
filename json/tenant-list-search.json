@@ -1,0 +1,13 @@
+{
+   "filter":{
+      "tenantIds":[
+         "TNTG_mwnLU3LtCidsiT",
+         "TNT_jN2angn7TQ67hW"
+      ]
+   },
+   "project":{
+      "avataarId":1,
+      "name":1,
+      "reqConfig":1
+   }
+}

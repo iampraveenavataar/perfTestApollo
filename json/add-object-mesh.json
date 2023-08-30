@@ -1,0 +1,25 @@
+[
+   {
+      "filters":{
+         "types":[
+            "IMPLICIT"
+         ]
+      },
+      "pagination":{
+         "page":1,
+         "limit":100
+      }
+   },
+   {
+      "filters":{
+         "types":[
+            "LME_MESH_RENDERER",
+            "BYO3D"
+         ]
+      },
+      "pagination":{
+         "page":1,
+         "limit":100
+      }
+   }
+]

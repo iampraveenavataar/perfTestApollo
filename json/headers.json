@@ -1,0 +1,9 @@
+{
+   "authority":"oc9rczvetg.execute-api.us-east-1.amazonaws.com",
+   "accept-language":"en-GB,en-US;q=0.9,en;q=0.8",
+   "accept":"application/json, text/plain, */*",
+   "origin":"https://apollo-qa.avataar.ai",
+   "referer":"https://apollo-qa.avataar.ai/",
+   "authorization":"{}",
+   "content-type":"application/json"
+}
