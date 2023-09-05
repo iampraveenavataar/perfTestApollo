@@ -1,0 +1,26 @@
+[
+   {
+      "filters":{
+         "categories":[
+            "SCENE"
+         ],
+         "isPublic":true
+      },
+      "pagination":{
+         "page":1,
+         "limit":100
+      }
+   },
+   {
+      "filters":{
+         "categories":[
+            "SCENE"
+         ],
+         "isPublic":false
+      },
+      "pagination":{
+         "page":1,
+         "limit":100
+      }
+   }
+]

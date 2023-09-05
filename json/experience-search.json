@@ -1,4 +1,4 @@
-{
+[{
    "isPublic":true,
    "categories":[
       
@@ -7,4 +7,13 @@
       "limit":60,
       "page":1
    }
-}
+},{
+   "isPublic":false,
+   "categories":[
+
+   ],
+   "pagination":{
+      "limit":60,
+      "page":1
+   }
+}]
