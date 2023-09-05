@@ -18,3 +18,7 @@ endPoints:
   list-experiences: "/qa/apollo/signed-urls"
   Open-update-experience: "/qa/experiences/update/{}/{}"
   add-object-mesh: "/qa/editor-records/search/{}"
+  search-img-2-3d: "/qa/apollo/records/{}/search"
+  new-records: "/qa/apollo/web-view/records/{}/new-records"
+  add-rooms: "/qa/polygons/search/{}"
+  community-search: "/qa/apollo/web-view/community-records/{}/search"
